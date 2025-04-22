@@ -1,0 +1,28 @@
+body {
+  background-color: rgb(124, 132, 211); /* Cor de fundo de todo o body.*/
+  text-align: center; /* Orientação de todo texto dentro do body, centralizado. */
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif; /* Formato da fonte dentro de todo o body. */
+  color: aliceblue; /* Cor das fotes dentro do body. */
+}
+
+img {
+  border-radius: 150px 150px 150px 150px; /* Arredonda as bordas. */
+  border: solid 5px; /* Cria borda na img. */
+}
+a {
+  display: inline-block; /* Permite que o botão se comporte como um bloco. */
+  padding: 10px 20px; /* Espaçamento interno. */
+  background-color: rgb(71, 71, 150);
+  color: rgb(255, 255, 255);
+  text-decoration: none; /* Retira a linha do texto. */
+  border-radius: 10px;
+  cursor: pointer; /* Indidca que é um botão.*/
+  font-size: 25px;
+  font-weight: bolder;
+  margin-right: 10px;
+}
+
+.bio {
+  font-size: 20px;
+  font-weight: bold;
+}
